@@ -1,0 +1,9 @@
+{
+  "name": "pdf-live-reload",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
