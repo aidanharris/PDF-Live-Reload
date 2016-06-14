@@ -4,7 +4,7 @@ An incredibly simple and downright insecure web app for viewing a PDF file in th
 
 ## But WHY!?
 
-I've recently started using LaTeX to create documents and though it'd be neat to be able to preview these documents on my iPad in the Safari web browser and have the page reload when the outputed PDF file has changed.
+I've recently started using LaTeX to create documents and thought it'd be neat to be able to preview these documents on my iPad in the Safari web browser and have the page reload when the outputted PDF file has changed.
 
 ## Usage
 
